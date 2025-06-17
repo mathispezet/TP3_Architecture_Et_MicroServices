@@ -3,7 +3,7 @@
 #### **3.1 Session, état, communication**
 
 *   **1. Gérer l'état avec HTTP :**
-    On utilise un **token (jeton)**. Le client se connecte une fois, reçoit un token, et le renvoie à chaque requête pour que le serveur sache qui il est.
+    On utilise un **token**. Le client se connecte une fois, reçoit un token, et le renvoie à chaque requête pour que le serveur sache qui il est.
 
 *   **2. Alternatives pour l'identification :**
     *   **Donner le pseudo :** Non, pas sécurisé.
